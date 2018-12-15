@@ -1,10 +1,12 @@
+*************************
+Desktop Version of the resource managment card game Splendor
+
+
 **************************
 In Order to Build the Game, make sure all the images are in the resource foulder
 	-if not to add
 	-right click on the resource file and click add existing directory 
 	- add the file names images
-
-
 **************************
 **************************
 RULES
